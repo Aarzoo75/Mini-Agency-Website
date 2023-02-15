@@ -33,7 +33,7 @@ https://github.com/Aarzoo75/Mini-Agency-Website.git
 
 4. Open the `index.html` file in your browser to view the site.
 
-##Credits
+## Credits
 * Google Fonts: https://fonts.google.com/
 * Remix Icon: https://remixicon.com/
 
